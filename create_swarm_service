@@ -1,3 +1,4 @@
-docker stack deploy --compose-file docker-compose.yml b
+#docker stack deploy --compose-file docker-compose.yml b
+echo "Something but nothing to do"
 #echo "testin"
 #echo "test bench"
